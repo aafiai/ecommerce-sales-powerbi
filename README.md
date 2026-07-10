@@ -1,4 +1,4 @@
-#**E-Commerce Sales Performance Dashboard — Power BI**
+#E-Commerce Sales Performance Dashboard — Power BI
 Overview
 An interactive two-page Power BI dashboard analysing 10,000+ retail orders across product categories, regions, and customer segments. Built to practice end-to-end dashboard development — from raw data to business insights.
 Dataset
