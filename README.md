@@ -5,6 +5,9 @@ An interactive two-page Power BI dashboard analysing 10,000+ retail orders acros
 ## Dataset
 
 Source: Kaggle — Retail Orders Dataset
+
+https://www.kaggle.com/datasets/ankitbansal06/retail-orders
+
 ~10,000 orders with fields including category, region, segment, list price, cost price, quantity, and order date
 
 
